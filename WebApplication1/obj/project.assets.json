@@ -10756,11 +10756,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\1012177\\Desktop\\SportStore\\WebApplication1\\SportStore.csproj",
+      "projectUniqueName": "C:\\Users\\1012177\\Desktop\\SportsStore\\WebApplication1\\SportStore.csproj",
       "projectName": "SportStore",
-      "projectPath": "C:\\Users\\1012177\\Desktop\\SportStore\\WebApplication1\\SportStore.csproj",
+      "projectPath": "C:\\Users\\1012177\\Desktop\\SportsStore\\WebApplication1\\SportStore.csproj",
       "packagesPath": "C:\\Users\\1012177\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1012177\\Desktop\\SportStore\\WebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\1012177\\Desktop\\SportsStore\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1012177\\AppData\\Roaming\\NuGet\\NuGet.Config",

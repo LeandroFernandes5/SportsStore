@@ -13,7 +13,7 @@ namespace SportStore.Models
             new Product {Name = "Surf Board", Price = 179},
             new Product {Name = "Running Shoes", Price = 95},
             new Product {Name = "Turf Tennis", Price = 65},
-            new Product {Name = "Gloves", Price = 17},
+            new Product {Name = "Gloves", Price = 17, Description= "You will be a champion!"},
         };
     }
 }
